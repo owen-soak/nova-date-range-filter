@@ -1,5 +1,5 @@
 {
-  "name": "ampeco/nova-date-range-filter",
+  "name": "owen-soak/nova-date-range-filter",
   "description": "A Laravel Nova date range filter.",
   "keywords": [
     "laravel",
@@ -13,13 +13,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Ampeco\\Filters\\": "src/"
+      "OwenSoak\\Filters\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Ampeco\\Filters\\FieldServiceProvider"
+        "OwenSoak\\Filters\\FieldServiceProvider"
       ]
     }
   },
