@@ -13,13 +13,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Ampeco\\Filters\\": "src/"
+      "OwenSoak\\Filters\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Ampeco\\Filters\\FieldServiceProvider"
+        "OwenSoak\\Filters\\FieldServiceProvider"
       ]
     }
   },
