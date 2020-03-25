@@ -5,7 +5,7 @@ Nova filter that displays a Date Range Picker instead of a select.
 ### Install
 
 Run this command in your nova project:
-`composer require ampeco/nova-date-range-filter`
+`composer require owen-soak/nova-date-range-filter`
 
 ### How to use
 
