@@ -12,7 +12,7 @@ Run this command in your nova project:
 Just use DateRangeFilter class instead of Filter
 
 ```php
-use Ampeco\Filters\DateRangeFilter;
+use Owensoak\Filters\DateRangeFilter;
 
 class DateRange extends DateRangeFilter
 {
