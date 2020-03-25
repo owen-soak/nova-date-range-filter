@@ -1,6 +1,6 @@
 <?php
 
-namespace OwenSoak\Filters;
+namespace Owensoak\Filters;
 
 use Laravel\Nova\Filters\Filter;
 
