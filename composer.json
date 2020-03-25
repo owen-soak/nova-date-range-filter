@@ -13,13 +13,13 @@
   },
   "autoload": {
     "psr-4": {
-      "OwenSoak\\Filters\\": "src/"
+      "Owensoak\\Filters\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "OwenSoak\\Filters\\FieldServiceProvider"
+        "Owensoak\\Filters\\FieldServiceProvider"
       ]
     }
   },
