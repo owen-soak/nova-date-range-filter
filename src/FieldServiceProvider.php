@@ -1,6 +1,6 @@
 <?php
 
-namespace Ampeco\Filters;
+namespace OwenSoak\Filters;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;
